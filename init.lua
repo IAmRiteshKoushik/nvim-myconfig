@@ -1,2 +1,1 @@
 require("rk")
-print("Hello")
